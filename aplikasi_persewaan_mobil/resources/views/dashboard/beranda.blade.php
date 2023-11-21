@@ -83,7 +83,7 @@
             $('#myTable').DataTable({
                 processing: true,
                 serverSide: true,
-                ajax: '{!! route('buatsewa') !!}',
+                ajax: '{!! route('beranda') !!}',
                 columns: [
                     { data: 'id', name: 'id' },
                     { data: 'namalengkap', name: 'namalengkap' },
