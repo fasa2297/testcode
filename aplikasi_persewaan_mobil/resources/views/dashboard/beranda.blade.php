@@ -59,7 +59,7 @@
                 <thead>
                     <tr>
                         <th>ID</th>
-                        <th>Anda</th>
+                        <th>Pemilik</th>
                         <th>Merek</th>
                         <th>Model</th>
                         <th>PlatNomer</th>
